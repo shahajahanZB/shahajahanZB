@@ -4,7 +4,7 @@
 # 👋 Hi, I'm Shahajahan  
 🚀 AI/ML Enthusiast | Deep Learning Researcher | MLOps Practitioner  
 
-- 🔭 Currently working on **Computer Vision & NLP projects**  
+- 🔭 Currently working on **Automating the web app development**  
 - 🌱 Learning **Generative AI, LLMs & Reinforcement Learning**  
 - 💡 Passionate about **AI for real-world impact**  
 - 🎯 Goal: To contribute to **open-source AI frameworks**
@@ -14,7 +14,7 @@
 ### 👀 Profile Views & Badges
 ![](https://komarev.com/ghpvc/?username=shahajahanZB&style=flat-square&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/shahajahanZB?style=social)
-![GitHub stars](https://img.shields.io/github/stars/shahajahanZB?style=social)
+
 
 ---
 
@@ -27,7 +27,7 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=blue)
 
 ---
 
@@ -39,9 +39,9 @@
 ---
 
 ### 🔬 Featured Projects
-- 🤖 [AI-Powered Plant Disease Classification](https://github.com/shahajahanZB/project1)
-- 🧠 [LLM Fine-tuning for Chatbots](https://github.com/shahajahanZB/project2)
-- 📊 [ML Pipeline with MLOps](https://github.com/shahajahanZB/project3)
+- 🤖 [Fine tuned Custom GPT](https://github.com/shahajahanZB/Simple-chatbot-using-groq-apikey-and-flask)
+- 🧠 [Customer issue classification](https://github.com/shahajahanZB/Customer-Issue-classification)
+- 📊 [Recommendation system using ML + RL](https://github.com/shahajahanZB/Movie-Recommendation-using-Machine-Learning-and-Reinforcement-Learning)
 
 ---
 
@@ -51,8 +51,9 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahajahanZB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-jahan-bekinalkar-187b34273/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
+
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/shahajahanZB)
 
 ---
