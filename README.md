@@ -28,6 +28,32 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-232F7E?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<!-- Tech Stack Badges -->
+
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=numpy&logoColor=white) <!-- MLflow has no official badge, used custom -->
+![Azure ML](https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Python Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white) <!-- unofficial -->
+![LightGBM](https://img.shields.io/badge/LightGBM-01437F?style=for-the-badge&logo=leaflet&logoColor=white) <!-- placeholder -->
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FF9E0F?style=for-the-badge&logo=huggingface&logoColor=white)
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 
 
 ---
@@ -58,12 +84,5 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shahajahanbekin1)
 
 
----
-
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-![AI](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
-![Matrix](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-![Brain AI](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
-![AI](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
 
