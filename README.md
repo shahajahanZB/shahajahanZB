@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-![Header](https://github.com/shahajahanZB/shahajahanZB/blob/main/assets/header.png)
+![Header](ChatGPT Image Aug 30, 2025, 02_47_20 PM.png)
 
 # 👋 Hi, I'm Shahajahan  
 🚀 AI/ML Enthusiast | Deep Learning Researcher | MLOps Practitioner  
