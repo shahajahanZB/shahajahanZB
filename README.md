@@ -61,4 +61,9 @@
 ---
 
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![AI](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+![Matrix](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![Brain AI](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
+![AI](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+
 
