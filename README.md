@@ -2,16 +2,16 @@
 ![Header](https://github.com/shahajahanZB/shahajahanZB/blob/8ce34a9c7016aebbc7d394294caeb08e1684aa55/Image.png)
 
 # 👋 Hi, I'm Shahajahan  
-🚀 AI/ML Enthusiast | Deep Learning Researcher | MLOps Practitioner  
+🚀 AI/ML Inquisitive Mind | Deep Learning Researcher | MLOps Practitioner  
 
-- 🔭 Currently working on **Automating the web app development**  
+- 🔭 Currently working on **Automating the web development**  
 - 🌱 Learning **Generative AI, LLMs & Reinforcement Learning**  
 - 💡 Passionate about **AI for real-world impact**  
 - 🎯 Goal: To contribute to **open-source AI frameworks**
 
 ---
 
-### 👀 Profile Views & Badges
+### 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=shahajahanZB&style=flat-square&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/shahajahanZB?style=social)
 
@@ -27,12 +27,12 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=blue)
+![Azure](https://img.shields.io/badge/Azure-232F7E?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 
 ---
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=shahajahanZB&show_icons=true&theme=tokyonight)  
+### 📊 GitHub Stats  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shahajahanZB&theme=tokyonight)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahajahanZB&layout=compact&theme=tokyonight)
 
@@ -52,11 +52,13 @@
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-jahan-bekinalkar-187b34273/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ShahajahanZB?t=7h4Bs-kl25RVRwL0Mh0MHw&s=09)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ShahajahanBekinalkar/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shahajahanbekin1)
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/shahajahanZB)
 
 ---
 
-### ✨ Aesthetic AI Theme
-![AI Animation](https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/computer.gif)
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
