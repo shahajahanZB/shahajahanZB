@@ -1,5 +1,6 @@
 <!-- Header Banner -->
-![Header](https://github.com/shahajahanZB/shahajahanZB/blob/8ce34a9c7016aebbc7d394294caeb08e1684aa55/Image.png)
+![Header](https://github.com/shahajahanZB/shahajahanZB/blob/a4d53e3172b3b6dc21b213e677f9cc4231c30bcf/Image%20(1).png)
+
 
 # 👋 Hi, I'm Shahajahan  
 🚀 AI/ML Inquisitive Mind | Deep Learning Researcher | MLOps Practitioner  
