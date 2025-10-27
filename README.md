@@ -2,13 +2,13 @@
 ![Header](https://github.com/shahajahanZB/shahajahanZB/blob/e4d162d7a89718bc9901ff2fb9f7f902d0d2f46a/Your%20paragraph%20text.png)
 
 
-# 👋 Hi, I'm Shahajahan  
-🚀 AI/ML Inquisitive Mind | Deep Learning Researcher | MLOps Practitioner  
+# 👋 Hi there, I'm Shahajahan  
+🚀 AI Integration and Application | Process Optimization and Automation | MLOps Practitioner  
 
 - 🔭 Currently working on **Automating the web development**  
-- 🌱 Learning **Generative AI, LLMs & Reinforcement Learning**  
+- 🌱 Learning **Generative AI, LLMs & Automation tools**  
 - 💡 Passionate about **AI for real-world impact**  
-- 🎯 Goal: To contribute to **open-source AI frameworks**
+- 🎯 Goal: contribute to  **open-source AI frameworks**
 
 
 ### 👀 Profile Views
