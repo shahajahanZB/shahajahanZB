@@ -43,8 +43,9 @@
 
 ---
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shahajahanZB&show_icons=true&theme=tokyonight)
+### 🔥 GitHub Streak
+![Streak](https://streak-stats.demolab.com/?user=shahajahanZB&theme=tokyonight)
+
 
 
 ---
