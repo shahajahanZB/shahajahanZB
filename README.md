@@ -8,7 +8,7 @@
 - 🔭 Currently working on **Automating the web development**  
 - 🌱 Learning **Generative AI, LLMs & Automation tools**  
 - 💡 Passionate about **AI for real-world impact**  
-- 🎯 Goal: contribute to  **open-source AI frameworks**
+- 🎯 Goal: **To make AI less Artificial and more Intelligent**
 
 
 ### 👀 Profile Views
