@@ -43,8 +43,13 @@
 
 ---
 
-### 🔥 GitHub Streak
-![Streak](https://streak-stats.demolab.com/?user=shahajahanZB&theme=tokyonight)
+## 📊 GitHub Stats & Activity
+<p align="center">
+  <!-- github-readme-stats (dynamic) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shahajahanZB&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Shah's GitHub stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahajahanZB&theme=tokyonight" alt="Streak Stats" />
+</p>
 
 
 
