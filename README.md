@@ -5,7 +5,7 @@
 # 👋 Hi there, I'm Shaz  
 🚀 AI Integration and Application | Process Optimization and Automation | MLOps Practitioner  
 
-- 🔭 Currently working on **Automating the web development**  
+- 🔭 Currently working on **Building an enterprise level LMS using SpringBoot**  
 - 🌱 Learning **Generative AI, LLMs & Automation tools**  
 - 💡 Passionate about **AI for real-world impact**  
 - 🎯 Goal: **To make AI less Artificial and more Intelligent**
